@@ -8,6 +8,7 @@ pod 'Alamofire', '~> 3.3'
 pod 'Gloss', '~> 0.7'
 pod 'SDWebImage', '~>3.7'
 pod 'SVProgressHUD'
+pod 'AlamofireNetworkActivityIndicator', '~> 1.0'
 
 end
 

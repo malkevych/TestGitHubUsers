@@ -1,5 +1,7 @@
 PODS:
   - Alamofire (3.3.1)
+  - AlamofireNetworkActivityIndicator (1.0.1):
+    - Alamofire (~> 3.3)
   - Gloss (0.7.2)
   - SDWebImage (3.7.5):
     - SDWebImage/Core (= 3.7.5)
@@ -8,16 +10,18 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire (~> 3.3)
+  - AlamofireNetworkActivityIndicator (~> 1.0)
   - Gloss (~> 0.7)
   - SDWebImage (~> 3.7)
   - SVProgressHUD
 
 SPEC CHECKSUMS:
   Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  AlamofireNetworkActivityIndicator: 49a6e39afb947136f7b1872bae2d684957c26697
   Gloss: 45eb51aaa6f2725341aec8d8caa65cfcc31f7f3b
   SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
   SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
 
-PODFILE CHECKSUM: 218ed6adbfbb19dd8b63cbfb56d32820d2ff3e65
+PODFILE CHECKSUM: a9f46b20c0df1278de36ad05ed8aa0c334767ae3
 
 COCOAPODS: 1.0.0.beta.8
